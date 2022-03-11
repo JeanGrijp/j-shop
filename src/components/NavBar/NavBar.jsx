@@ -23,4 +23,4 @@ export const NavBar = () => {
       </section>
     </NavBarContainer>
   )
-}
+};
