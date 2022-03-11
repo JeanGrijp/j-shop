@@ -3,6 +3,7 @@ import { BiSearch, BiCart, BiListMinus } from "react-icons/bi";
 import { FiSearch } from "react-icons/fi";
 
 export const NavBar = () => {
+  
   return (
     <NavBarContainer>
       <section className="first">
